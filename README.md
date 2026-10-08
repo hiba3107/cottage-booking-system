@@ -3,7 +3,7 @@ Cottage Booking System
 A Java console application for a holiday letting company. Guests search for a cottage against five criteria, reserve it against their email address, and cancel later. Everything persists to a text file between runs.
 
 University coursework, 4300COMP Introduction to Programming, Liverpool John Moores University.
-
+ 
 What it does
 
 Guests search on five requirements at once:
